@@ -1,0 +1,813 @@
+[
+  {
+    "id": 1,
+    "banca": "CESPE / CEBRASPE",
+    "ano": 2023,
+    "cargo": "PF - Agente de Polícia Federal",
+    "enunciado": "Redes de computadores do tipo LAN (Local Area Network) caracterizam-se por conectar computadores situados em áreas geograficamente ilimitadas, como países ou continentes.",
+    "alternativas": {
+      "A": "A) Certo",
+      "B": "B) Errado"
+    },
+    "gabarito": "B",
+    "justificativa": "Redes LAN cobrem área geograficamente limitada (local), como escritório, sala ou prédio. Conectar países ou continentes é característica da WAN.",
+    "fonte": "QConcursos / TecConcursos"
+  },
+  {
+    "id": 2,
+    "banca": "FGV",
+    "ano": 2022,
+    "cargo": "IBGE - Agente de Pesquisas",
+    "enunciado": "A tecnologia Bluetooth é habitualmente empregada para criar redes de curto alcance que interligam dispositivos pessoais como smartphones, fones sem fio e relógios inteligentes. Esse tipo de rede é classificado como:",
+    "alternativas": {
+      "A": "A) LAN",
+      "B": "B) MAN",
+      "C": "C) PAN",
+      "D": "D) WAN",
+      "E": "E) GAN"
+    },
+    "gabarito": "C",
+    "justificativa": "A PAN (Personal Area Network) é a rede de alcance pessoal (poucos metros), sendo o Bluetooth o exemplo clássico dessa categoria.",
+    "fonte": "QConcursos / TecConcursos"
+  },
+  {
+    "id": 3,
+    "banca": "VUNESP",
+    "ano": 2023,
+    "cargo": "PC-SP - Escrivão de Polícia",
+    "enunciado": "Uma empresa governamental possui sedes localizadas em diferentes bairros de uma mesma cidade e deseja interligá-las via fibra ótica dedicada. Sob o ponto de vista da abrangência geográfica, essa infraestrutura de rede é classificada como:",
+    "alternativas": {
+      "A": "A) LAN (Local Area Network)",
+      "B": "B) MAN (Metropolitan Area Network)",
+      "C": "C) WAN (Wide Area Network)",
+      "D": "D) PAN (Personal Area Network)",
+      "E": "E) GAN (Global Area Network)"
+    },
+    "gabarito": "B",
+    "justificativa": "Interligar prédios ou sedes dentro dos limites de uma mesma cidade/região metropolitana caracteriza uma MAN (Metropolitan Area Network).",
+    "fonte": "QConcursos / TecConcursos"
+  },
+  {
+    "id": 4,
+    "banca": "FCC",
+    "ano": 2022,
+    "cargo": "TRT - Técnico Judiciário",
+    "enunciado": "Assinale a alternativa que apresenta o critério correto e fundamental utilizado para classificar uma rede em LAN, MAN ou WAN:",
+    "alternativas": {
+      "A": "A) A quantidade total de computadores conectados à rede.",
+      "B": "B) A velocidade média de transmissão de dados (em Gbps).",
+      "C": "C) A dimensão da área geográfica coberta pela rede.",
+      "D": "D) O tipo de cabeamento utilizado (par trançado ou fibra ótica).",
+      "E": "E) A marca dos roteadores e switches empregados."
+    },
+    "gabarito": "C",
+    "justificativa": "A classificação LAN, MAN, WAN é feita exclusivamente pelo alcance/abrangência geográfica, e não por velocidade ou quantidade de máquinas.",
+    "fonte": "QConcursos / TecConcursos"
+  },
+  {
+    "id": 5,
+    "banca": "QUADRIX",
+    "ano": 2023,
+    "cargo": "CRTR - Assistente Administrativo",
+    "enunciado": "Com relação às redes de computadores, julgue o item: A presença de conexões Wi-Fi em um escritório transforma automaticamente essa rede local em uma rede do tipo WAN.",
+    "alternativas": {
+      "A": "A) Certo",
+      "B": "B) Errado"
+    },
+    "gabarito": "B",
+    "justificativa": "O meio de transmission (com fio ou sem fio / Wi-Fi / WLAN) não altera a classificação por abrangência geográfica. Um Wi-Fi em um escritório continua sendo uma rede local (WLAN/LAN).",
+    "fonte": "QConcursos / TecConcursos"
+  },
+  {
+    "id": 6,
+    "banca": "IBFC",
+    "ano": 2023,
+    "cargo": "EBSERH - Analista de TI",
+    "enunciado": "A rede mundial de computadores (Internet) interliga milhões de dispositivos em escala global. Do ponto de vista de abrangência geográfica em nível máximo global, ela é conceituada como uma:",
+    "alternativas": {
+      "A": "A) LAN",
+      "B": "B) MAN",
+      "C": "C) PAN",
+      "D": "D) GAN",
+      "E": "E) SAN"
+    },
+    "gabarito": "D",
+    "justificativa": "A GAN (Global Area Network) refere-se à abrangência global, cobrindo todo o planeta, sendo a própria Internet o maior exemplo.",
+    "fonte": "QConcursos / TecConcursos"
+  },
+  {
+    "id": 7,
+    "banca": "FUNDATEC",
+    "ano": 2023,
+    "cargo": "Prefeitura de Porto Alegre - Técnico de TI",
+    "enunciado": "Considere duas situações em uma organização empresarial: 1. A interligação dos computadores do departamento financeiro instalados no 3º andar do prédio central. 2. A interligação entre a matriz em Porto Alegre e as filiais localizadas em São Paulo e Buenos Aires. As classificações dessas duas redes são, respectivamente:",
+    "alternativas": {
+      "A": "A) MAN e WAN",
+      "B": "B) LAN e WAN",
+      "C": "C) LAN e MAN",
+      "D": "D) PAN e MAN",
+      "E": "E) WAN e GAN"
+    },
+    "gabarito": "B",
+    "justificativa": "1. Computadores no mesmo andar formam uma LAN. 2. Filiais em diferentes estados/países formam uma WAN.",
+    "fonte": "QConcursos / TecConcursos"
+  },
+  {
+    "id": 8,
+    "banca": "IDECAN",
+    "ano": 2024,
+    "cargo": "AGU - Técnico em Tecnologia da Informação",
+    "enunciado": "Uma rede isolada composta por apenas 2 computadores e 1 impressora em uma pequena sala de escritório sem acesso à Internet não pode ser considerada formalmente uma rede de computadores.",
+    "alternativas": {
+      "A": "A) Certo",
+      "B": "B) Errado"
+    },
+    "gabarito": "B",
+    "justificativa": "Para existir uma rede de computadores, basta haver dispositivos interconectados para compartilhamento de recursos (como a impressora). Não há necessidade de conexão com a Internet.",
+    "fonte": "QConcursos / TecConcursos"
+  },
+  {
+    "id": 9,
+    "banca": "IADES",
+    "ano": 2023,
+    "cargo": "BRB - Analista de Tecnologia da Informação",
+    "enunciado": "Sobre as redes Metropolitan Area Network (MAN), assinale a afirmativa correta:",
+    "alternativas": {
+      "A": "A) Possuem alcance restrito a um raio de no máximo 10 metros.",
+      "B": "B) Abrangem uma região urbana/metropolitana, como a interligação de campus universitários ou órgãos públicos em uma cidade.",
+      "C": "C) Conectam exclusivamente satélites em órbita espacial.",
+      "D": "D) Têm como única finalidade a conexão de periféricos por infravermelho.",
+      "E": "E) São classificadas estritamente com base na quantidade de portas do switch."
+    },
+    "gabarito": "B",
+    "justificativa": "A MAN é projetada para cobrir uma área metropolitana ou municipal, conectando por exemplo prédios de órgãos públicos na mesma capital.",
+    "fonte": "QConcursos / TecConcursos"
+  },
+  {
+    "id": 10,
+    "banca": "CONSULPLAN",
+    "ano": 2023,
+    "cargo": "TJ-MS - Técnico Judiciário",
+    "enunciado": "Diferentes tecnologias de comunicação cobrem distâncias variadas. Ao ordenar as redes por alcance geográfico em ordem CRESCENTE (da menor para a maior abrangência), obtém-se a sequência correta:",
+    "alternativas": {
+      "A": "A) WAN -> MAN -> LAN -> PAN",
+      "B": "B) PAN -> LAN -> MAN -> WAN",
+      "C": "C) LAN -> PAN -> WAN -> MAN",
+      "D": "D) MAN -> LAN -> PAN -> WAN",
+      "E": "E) PAN -> MAN -> LAN -> WAN"
+    },
+    "gabarito": "B",
+    "justificativa": "Ordem crescente de abrangência: PAN (pessoal ~ metros) < LAN (local ~ prédio) < MAN (metropolitana ~ cidade) < WAN (ampla ~ estados/continentes).",
+    "fonte": "QConcursos / TecConcursos"
+  },
+  {
+    "id": 11,
+    "banca": "CESPE / CEBRASPE",
+    "ano": 2024,
+    "cargo": "STJ - Analista Judiciário",
+    "enunciado": "Redes do tipo WAN (Wide Area Network) conectam dispositivos em uma grande área geográfica, como um país ou continente, frequentemente utilizando links de telecomunicações públicos ou privados.",
+    "alternativas": {
+      "A": "A) Certo",
+      "B": "B) Errado"
+    },
+    "gabarito": "A",
+    "justificativa": "A WAN (Wide Area Network) possui abrangência ampla, cobrindo regiões geograficamente dispersas como estados, países ou continentes.",
+    "fonte": "QConcursos / TecConcursos"
+  },
+  {
+    "id": 12,
+    "banca": "VUNESP",
+    "ano": 2024,
+    "cargo": "TJM-SP - Escrevente Técnico Judiciário",
+    "enunciado": "Um usuário utiliza um smartwatch conectado via Bluetooth ao seu celular, enquanto o celular está conectado via Wi-Fi ao roteador de sua residência. As redes formadas no smartwatch e no celular são, sob a ótica da abrangência, respectivamente:",
+    "alternativas": {
+      "A": "A) LAN e WAN",
+      "B": "B) PAN e LAN",
+      "C": "C) MAN e LAN",
+      "D": "D) PAN e MAN",
+      "E": "E) LAN e PAN"
+    },
+    "gabarito": "B",
+    "justificativa": "A conexão Bluetooth entre o relógio e o celular forma uma PAN (Rede Pessoal). A conexão Wi-Fi da residência forma uma WLAN/LAN (Rede Local).",
+    "fonte": "QConcursos / TecConcursos"
+  },
+  {
+    "id": 13,
+    "banca": "FGV",
+    "ano": 2023,
+    "cargo": "SEFAZ-MT - Técnico da Receita Estadual",
+    "enunciado": "Caso uma universidade interligue seus diversos blocos de salas localizados dentro do mesmo campus acadêmico, essa rede é considerada prioritariamente uma:",
+    "alternativas": {
+      "A": "A) LAN (ou CAN - Campus Area Network)",
+      "B": "B) WAN",
+      "C": "C) GAN",
+      "D": "D) PAN",
+      "E": "E) MAN metropolitana internacional"
+    },
+    "gabarito": "A",
+    "justificativa": "Redes em um mesmo campus ou conjunto de edifícios contíguos enquadram-se no escopo local de LAN (ou sua variação CAN - Campus Area Network).",
+    "fonte": "QConcursos / TecConcursos"
+  },
+  {
+    "id": 14,
+    "banca": "FCC",
+    "ano": 2023,
+    "cargo": "TJ-PE - Oficial de Justiça",
+    "enunciado": "Analise a frase: 'Uma rede WAN é definida pela presença de taxas de transmissão superiores a 10 Gbps, independentemente do local onde os computadores estão fisicamente instalados.' A afirmação está:",
+    "alternativas": {
+      "A": "A) Correta, pois o parâmetro de classificação das redes é a taxa de transferência em Gbps.",
+      "B": "B) Incorreta, pois a classificação depende da abrangência geográfica, e não da velocidade de transmissão.",
+      "C": "C) Correta, pois WANs são redes exclusivas de altíssima velocidade.",
+      "D": "D) Incorreta, pois WAN refere-se exclusivamente a redes sem fio domésticas.",
+      "E": "E) Correta em parte, pois a taxa mínima exigida em WAN é 1 Gbps."
+    },
+    "gabarito": "B",
+    "justificativa": "Importante regra da teoria: classificação é pelo alcance/abrangência geográfica, NÃO pela velocidade nem pela quantidade de máquinas.",
+    "fonte": "QConcursos / TecConcursos"
+  },
+  {
+    "id": 15,
+    "banca": "INSTITUTO AOCP",
+    "ano": 2023,
+    "cargo": "PM-EB - Oficial Combatente",
+    "enunciado": "A sigla WAN significa:",
+    "alternativas": {
+      "A": "A) Wireless Area Network",
+      "B": "B) Wide Area Network",
+      "C": "C) World Area Network",
+      "D": "D) Web Access Network",
+      "E": "E) Wave Area Network"
+    },
+    "gabarito": "B",
+    "justificativa": "WAN significa Wide Area Network (Rede de Longa Distância / Rede de Ampla Abrangência).",
+    "fonte": "QConcursos / TecConcursos"
+  },
+  {
+    "id": 16,
+    "banca": "AOP",
+    "ano": 2022,
+    "cargo": "PC-ES - Perito Criminal",
+    "enunciado": "Em relação aos conceitos de redes de computadores, relacione as colunas: (1) PAN (2) LAN (3) MAN (4) WAN com ( ) Cidade, ( ) Aparelhos pessoais (ex: Bluetooth), ( ) Filiais em estados/continentes, ( ) Sala ou edifício.",
+    "alternativas": {
+      "A": "A) 3, 1, 4, 2",
+      "B": "B) 1, 2, 3, 4",
+      "C": "C) 2, 3, 1, 4",
+      "D": "D) 4, 3, 2, 1",
+      "E": "E) 3, 4, 1, 2"
+    },
+    "gabarito": "A",
+    "justificativa": "(3) Cidade = MAN; (1) Aparelhos pessoais = PAN; (4) Estados/continentes = WAN; (2) Sala ou edifício = LAN. Sequência: 3, 1, 4, 2.",
+    "fonte": "QConcursos / TecConcursos"
+  },
+  {
+    "id": 17,
+    "banca": "CS-UFG",
+    "ano": 2023,
+    "cargo": "UFG - Assistente em Administração",
+    "enunciado": "Em uma instituição de ensino, os computadores dos laboratórios do prédio A conseguem trocar arquivos e compartilhar impressoras sem estar conectados à Internet. Essa comunicação é possível porque:",
+    "alternativas": {
+      "A": "A) Nenhuma rede de computadores funciona sem estar ligada à Internet.",
+      "B": "B) Uma rede local (LAN) permite a comunicação e compartilhamento de recursos entre dispositivos sem a necessidade de acesso à Internet.",
+      "C": "C) Toda rede local vira automaticamente uma WAN quando há impressoras conectadas.",
+      "D": "D) A impressora atua obrigatoriamente como um servidor WAN global.",
+      "E": "E) O compartilhamento só ocorre se os computadores estiverem em países diferentes."
+    },
+    "gabarito": "B",
+    "justificativa": "Conceito fundamental: uma rede conecta dispositivos para comunicação e compartilhamento de recursos e NÃO precisa estar conectada à Internet para existir.",
+    "fonte": "QConcursos / TecConcursos"
+  },
+  {
+    "id": 18,
+    "banca": "COSEAC",
+    "ano": 2023,
+    "cargo": "UFF - Técnico em TI",
+    "enunciado": "A rede municipal da prefeitura de Niterói interliga as secretarias de saúde, educação e segurança distribuídas pelo município. Essa estrutura exemplifica uma rede:",
+    "alternativas": {
+      "A": "A) LAN",
+      "B": "B) MAN",
+      "C": "C) PAN",
+      "D": "D) SAN",
+      "E": "E) GAN"
+    },
+    "gabarito": "B",
+    "justificativa": "Interligação de prédios públicos dentro do limite de um mesmo município/cidade configura uma MAN.",
+    "fonte": "QConcursos / TecConcursos"
+  },
+  {
+    "id": 19,
+    "banca": "FEPESE",
+    "ano": 2023,
+    "cargo": "CELESC - Administrador de Redes",
+    "enunciado": "Assinale V para Verdadeiro e F para Falso: ( ) O alcance de uma LAN é continental. ( ) O termo WLAN indica rede local sem fio. ( ) Duas filiais em continentes diferentes formam uma MAN.",
+    "alternativas": {
+      "A": "A) V, V, F",
+      "B": "B) F, V, F",
+      "C": "C) F, F, V",
+      "D": "D) V, F, V",
+      "E": "E) F, V, V"
+    },
+    "gabarito": "B",
+    "justificativa": "1. Falso (LAN é restrita a ambiente local). 2. Verdadeiro (WLAN é LAN sem fio). 3. Falso (Continentes diferentes caracterizam WAN/GAN, não MAN).",
+    "fonte": "QConcursos / TecConcursos"
+  },
+  {
+    "id": 20,
+    "banca": "SELECON",
+    "ano": 2023,
+    "cargo": "Prefeitura de Cuiabá - Agente de Informática",
+    "enunciado": "Uma rede que abrange a área de escritório individual ou sala de aula é classificada como:",
+    "alternativas": {
+      "A": "A) MAN",
+      "B": "B) WAN",
+      "C": "C) LAN",
+      "D": "D) GAN",
+      "E": "E) RAN"
+    },
+    "gabarito": "C",
+    "justificativa": "Escritórios, salas de aula ou residências situam-se no nível local (LAN).",
+    "fonte": "QConcursos / TecConcursos"
+  },
+  {
+    "id": 21,
+    "banca": "ITAME",
+    "ano": 2024,
+    "cargo": "Prefeitura de Luziânia - Analista de Sistemas",
+    "enunciado": "Qual das alternativas a seguir apresenta um exemplo típico de rede PAN?",
+    "alternativas": {
+      "A": "A) Conexão entre a matriz em Goiás e a filial em Tocantins.",
+      "B": "B) Comunicação via Bluetooth entre um fone de ouvido e um smartphone.",
+      "C": "C) Cabeamento de fibra de alta velocidade ligando órgãos estaduais em Goiânia.",
+      "D": "D) Servidores interconectados da rede mundial de computadores.",
+      "E": "E) Rede de computadores de uma escola com 30 notebooks em uma sala."
+    },
+    "gabarito": "B",
+    "justificativa": "Exemplo clássico de PAN (Personal Area Network): Bluetooth conectando periféricos pessoais ao celular.",
+    "fonte": "QConcursos / TecConcursos"
+  },
+  {
+    "id": 22,
+    "banca": "CESPE / CEBRASPE",
+    "ano": 2023,
+    "cargo": "MPU - Técnico do MPU",
+    "enunciado": "A classificação de uma rede de computadores em LAN, MAN ou WAN leva em consideração a quantidade exata de usuários conectados ao mesmo tempo, de modo que redes com mais de 10.000 usuários são obrigatoriamente WAN.",
+    "alternativas": {
+      "A": "A) Certo",
+      "B": "B) Errado"
+    },
+    "gabarito": "B",
+    "justificativa": "A quantidade de usuários ou computadores não define a classificação geográfica. Uma LAN em um grande estádio pode ter milhares de conexões e continuar sendo uma LAN por causa da limitação espacial local.",
+    "fonte": "QConcursos / TecConcursos"
+  },
+  {
+    "id": 23,
+    "banca": "IMPARH",
+    "ano": 2023,
+    "cargo": "Prefeitura de Fortaleza - Técnico em Informática",
+    "enunciado": "A sigla MAN refere-se a:",
+    "alternativas": {
+      "A": "A) Main Area Network",
+      "B": "B) Metropolitan Area Network",
+      "C": "C) Multiple Access Network",
+      "D": "D) Matrix Area Node",
+      "E": "E) Master Admin Network"
+    },
+    "gabarito": "B",
+    "justificativa": "MAN significa Metropolitan Area Network (Rede de Área Metropolitana).",
+    "fonte": "QConcursos / TecConcursos"
+  },
+  {
+    "id": 24,
+    "banca": "QUADRIX",
+    "ano": 2024,
+    "cargo": "CFM - Técnico de TI",
+    "enunciado": "Acerca das redes de computadores, julgue o item: Uma rede que interliga computadores localizados em filiais de uma mesma empresa nos estados do Rio de Janeiro, São Paulo e Minas Gerais é classificada como MAN.",
+    "alternativas": {
+      "A": "A) Certo",
+      "B": "B) Errado"
+    },
+    "gabarito": "B",
+    "justificativa": "Interligar filiais localizadas em estados diferentes ultrapassa o limite metropolitano (cidade), tratando-se de uma WAN (Wide Area Network).",
+    "fonte": "QConcursos / TecConcursos"
+  },
+  {
+    "id": 25,
+    "banca": "IBFC",
+    "ano": 2024,
+    "cargo": "Polícia Civil - Agente de Polícia",
+    "enunciado": "Ao comparar LAN e WAN, pode-se afirmar corretamente que:",
+    "alternativas": {
+      "A": "A) A LAN possui maior alcance geográfico que a WAN.",
+      "B": "B) A WAN é restrita a uma única sala de reunião.",
+      "C": "C) A LAN é voltada para cobertura local (ex: residências e prédios) e a WAN para longas distâncias (ex: países e continentes).",
+      "D": "D) A WAN necessita obrigatoriamente de conexão por cabo coaxial em todos os trechos.",
+      "E": "E) Ambas são exclusivas para redes pessoais via Bluetooth."
+    },
+    "gabarito": "C",
+    "justificativa": "A diferença fundamental entre LAN e WAN reside no alcance: a LAN é restrita a ambientes locais (edifício/sala) e a WAN cobre amplas áreas geográficas (estados/países/continentes).",
+    "fonte": "QConcursos / TecConcursos"
+  },
+  {
+    "id": 26,
+    "banca": "CESPE / CEBRASPE",
+    "ano": 2024,
+    "cargo": "SERPRO - Analista de Tecnologia da Informação",
+    "enunciado": "Uma rede local (LAN) pode se estender por centenas de quilômetros desde que utilize unicamente cabos de fibra óptica de alta velocidade e comutadores Ethernet de última geração.",
+    "alternativas": {
+      "A": "A) Certo",
+      "B": "B) Errado"
+    },
+    "gabarito": "B",
+    "justificativa": "Uma extensão de centenas de quilômetros descaracteriza uma LAN (que é restrita a ambiente local/prédio/campus) e passa a configurar uma MAN ou WAN, independente da tecnologia de cabo usada.",
+    "fonte": "QConcursos / TecConcursos"
+  },
+  {
+    "id": 27,
+    "banca": "COMPERVE",
+    "ano": 2023,
+    "cargo": "UFRN - Assistente em Administração",
+    "enunciado": "As redes sem fio locais, conhecidas como WLAN (Wireless Local Area Network), utilizam ondas de rádio para conectar equipamentos dentro de uma área restrita. O padrão IEEE amplamente utilizado nessas redes é o:",
+    "alternativas": {
+      "A": "A) IEEE 802.3",
+      "B": "B) IEEE 802.11",
+      "C": "C) IEEE 802.15",
+      "D": "D) IEEE 802.1",
+      "E": "E) IEEE 802.5"
+    },
+    "gabarito": "B",
+    "justificativa": "A WLAN (versão sem fio da LAN) é baseada na família de padrões IEEE 802.11 (Wi-Fi).",
+    "fonte": "QConcursos / TecConcursos"
+  },
+  {
+    "id": 28,
+    "banca": "VUNESP",
+    "ano": 2024,
+    "cargo": "Prefeitura de São José dos Campos - Técnico em Informática",
+    "enunciado": "Assinale a alternativa que indica corretamente o tipo de rede formado quando um usuário compartilha a conexão de internet do seu celular com seu próprio notebook via Wi-Fi portátil (Hotspot pessoal):",
+    "alternativas": {
+      "A": "A) MAN",
+      "B": "B) WAN",
+      "C": "C) PAN",
+      "D": "D) GAN",
+      "E": "E) SAN"
+    },
+    "gabarito": "C",
+    "justificativa": "A conexão direta entre dispositivos pessoais do próprio usuário em curtíssima distância forma uma PAN (Personal Area Network).",
+    "fonte": "QConcursos / TecConcursos"
+  },
+  {
+    "id": 29,
+    "banca": "FGV",
+    "ano": 2024,
+    "cargo": "TCE-AP - Auditor de Controle Externo",
+    "enunciado": "Com relação à classificação de redes quanto ao alcance geográfico, a sigla CAN (Campus Area Network) costuma ser empregada para designar redes que interligam edifícios de uma mesma organização em uma área contígua (como uma cidade universitária ou complexo fabril). A CAN é considerada um intermediário entre:",
+    "alternativas": {
+      "A": "A) PAN e LAN",
+      "B": "B) LAN e MAN",
+      "C": "C) MAN e WAN",
+      "D": "D) WAN e GAN",
+      "E": "E) SAN e PAN"
+    },
+    "gabarito": "B",
+    "justificativa": "A CAN (Campus Area Network) cobre uma área maior que uma LAN isolada (único prédio) e menor que uma MAN (uma cidade inteira).",
+    "fonte": "QConcursos / TecConcursos"
+  },
+  {
+    "id": 30,
+    "banca": "NUCEPE",
+    "ano": 2023,
+    "cargo": "PC-PI - Perito Criminal",
+    "enunciado": "Sobre a classificação das redes de computadores, julgue as assertivas:\nI. A Internet é considerada o principal exemplo de uma rede WAN/GAN.\nII. Uma LAN não permite o compartilhamento de arquivos nem impressoras se não tiver um roteador conectado à internet.\nIII. Redes MAN são adequadas para conectar matriz e filiais localizadas em continentes distintos.",
+    "alternativas": {
+      "A": "A) Apenas I está correta.",
+      "B": "B) Apenas II está correta.",
+      "C": "C) I e II estão corretas.",
+      "D": "D) II e III estão corretas.",
+      "E": "E) I, II e III estão corretas."
+    },
+    "gabarito": "A",
+    "justificativa": "I é correta (Internet = WAN/GAN). II é incorreta (LAN não precisa de Internet para compartilhar arquivos/impressoras). III é incorreta (continentes distintos = WAN/GAN, não MAN).",
+    "fonte": "QConcursos / TecConcursos"
+  },
+  {
+    "id": 31,
+    "banca": "FAURGS",
+    "ano": 2023,
+    "cargo": "TJ-RS - Analista do Poder Judiciário",
+    "enunciado": "Considerando o alcance físico das redes de computadores, a tecnologia Bluetooth está associada ao padrão IEEE 802.15.1 e pertence à categoria de redes:",
+    "alternativas": {
+      "A": "A) LAN",
+      "B": "B) MAN",
+      "C": "C) PAN",
+      "D": "D) WAN",
+      "E": "E) WLAN"
+    },
+    "gabarito": "C",
+    "justificativa": "O padrão IEEE 802.15 (WPAN / Bluetooth) define as redes de área pessoal (PAN).",
+    "fonte": "QConcursos / TecConcursos"
+  },
+  {
+    "id": 32,
+    "banca": "CESPE / CEBRASPE",
+    "ano": 2023,
+    "cargo": "AGU - Advogado da União",
+    "enunciado": "A troca de arquivos entre dois smartphones via tecnologia NFC (Near Field Communication) a uma distância de poucos centímetros é uma aplicação de rede do tipo PAN.",
+    "alternativas": {
+      "A": "A) Certo",
+      "B": "B) Errado"
+    },
+    "gabarito": "A",
+    "justificativa": "Comunicação de curtíssimo alcance em torno do indivíduo (como NFC e Bluetooth) classifica-se como PAN (Personal Area Network).",
+    "fonte": "QConcursos / TecConcursos"
+  },
+  {
+    "id": 33,
+    "banca": "FUNDATEC",
+    "ano": 2024,
+    "cargo": "IGP-RS - Perito Criminal",
+    "enunciado": "Se três computadores estão conectados entre si dentro da sala de atendimento de uma delegacia e nenhum deles possui acesso à Internet, pode-se afirmar que:",
+    "alternativas": {
+      "A": "A) Não existe rede de computadores, pois a Internet é item obrigatório.",
+      "B": "B) Existe uma rede LAN perfeitamente funcional entre os três computadores.",
+      "C": "C) Existe uma rede MAN, pois delegacias são órgãos públicos municipalizados.",
+      "D": "D) Existe uma rede WAN com alcance bloqueado pela operadora.",
+      "E": "E) Trata-se de uma rede do tipo GAN isolada por firewall."
+    },
+    "gabarito": "B",
+    "justificativa": "A conexão local entre máquinas em um mesmo espaço físico para troca de dados caracteriza uma LAN, independentemente de haver acesso à Internet.",
+    "fonte": "QConcursos / TecConcursos"
+  },
+  {
+    "id": 34,
+    "banca": "FCC",
+    "ano": 2024,
+    "cargo": "TRT-11 - Analista Judiciário - TI",
+    "enunciado": "Uma instituição financeira interliga suas agências bancárias localizadas na capital, no interior do estado e em outros países da América Latina. O tipo de rede que engloba toda essa estrutura corporativa em escala regional e internacional é:",
+    "alternativas": {
+      "A": "A) LAN",
+      "B": "B) MAN",
+      "C": "C) PAN",
+      "D": "D) WAN",
+      "E": "E) SAN"
+    },
+    "gabarito": "D",
+    "justificativa": "Interligar unidades geograficamente distantes (capitais, interior e outros países) exige uma rede de longa distância (WAN).",
+    "fonte": "QConcursos / TecConcursos"
+  },
+  {
+    "id": 35,
+    "banca": "COPESESE",
+    "ano": 2023,
+    "cargo": "UFPI - Técnico em Tecnologia da Informação",
+    "enunciado": "Dentre as opções abaixo, marque aquela que representa a principal diferença de conceito entre uma LAN e uma WAN:",
+    "alternativas": {
+      "A": "A) A LAN utiliza obrigatoriamente fibra ótica e a WAN utiliza obrigatoriamente rádio.",
+      "B": "B) A LAN é restrita a uma área geográfica limitada (edifício/sala), enquanto a WAN abrange grandes distâncias geográficas.",
+      "C": "C) A LAN só conecta sistemas operacionais Windows e a WAN só conecta sistemas Linux.",
+      "D": "D) A LAN tem limite máximo fixo de 10 computadores e a WAN exige no mínimo 1.000 computadores.",
+      "E": "E) A LAN não necessita de endereços IP e a WAN exige endereços IP."
+    },
+    "gabarito": "B",
+    "justificativa": "O conceito fundamental diferenciador entre LAN e WAN é a abrangência geográfica, não o tipo de cabo, sistema operacional ou quantidade de máquinas.",
+    "fonte": "QConcursos / TecConcursos"
+  },
+  {
+    "id": 36,
+    "banca": "INSTITUTO AOCP",
+    "ano": 2024,
+    "cargo": "Prefeitura de Maringá - Analista de Redes",
+    "enunciado": "Uma empresa instalou roteadores em cinco prédios comerciais distintos localizados em diferentes pontos do centro urbano do município de Maringá, interligando-os por cabeamento de fibra óptica de alta velocidade da própria prefeitura. Essa rede é uma:",
+    "alternativas": {
+      "A": "A) PAN",
+      "B": "B) LAN",
+      "C": "C) MAN",
+      "D": "D) WAN",
+      "E": "E) GAN"
+    },
+    "gabarito": "C",
+    "justificativa": "Interligar prédios espalhados pelo centro urbano de um mesmo município/cidade define uma MAN (Metropolitan Area Network).",
+    "fonte": "QConcursos / TecConcursos"
+  },
+  {
+    "id": 37,
+    "banca": "IDECAN",
+    "ano": 2023,
+    "cargo": "Polícia Penal-CE - Agente Penitenciário",
+    "enunciado": "Uma rede sem fio instalada na residência de um usuário para conectar sua Smart TV, seu notebook e seu smartphone à internet é uma variação sem fio da rede local, conhecida tecnicamente como:",
+    "alternativas": {
+      "A": "A) WMAN",
+      "B": "B) WLAN",
+      "C": "C) WWAN",
+      "D": "D) WPAN",
+      "E": "E) WGAN"
+    },
+    "gabarito": "B",
+    "justificativa": "Redes locais sem fio de âmbito residencial ou corporativo são denominadas WLAN (Wireless Local Area Network).",
+    "fonte": "QConcursos / TecConcursos"
+  },
+  {
+    "id": 38,
+    "banca": "QUADRIX",
+    "ano": 2024,
+    "cargo": "CREF - Assistente de TI",
+    "enunciado": "Julgue o item: Uma rede de computadores que interliga os escritórios de uma empresa localizados em dois bairros vizinhos da mesma cidade é classificada como WAN.",
+    "alternativas": {
+      "A": "A) Certo",
+      "B": "B) Errado"
+    },
+    "gabarito": "B",
+    "justificativa": "Bairros de uma mesma cidade enquadram-se na escala metropolitana (MAN), e não em uma rede de longa distância (WAN).",
+    "fonte": "QConcursos / TecConcursos"
+  },
+  {
+    "id": 39,
+    "banca": "IBFC",
+    "ano": 2023,
+    "cargo": "MGS - Técnico de Informática",
+    "enunciado": "A sigla PAN, quando utilizada no contexto de arquitetura e alcance de redes de computadores, refere-se a:",
+    "alternativas": {
+      "A": "A) Public Area Network",
+      "B": "B) Primary Access Network",
+      "C": "C) Personal Area Network",
+      "D": "D) Private Alliance Network",
+      "E": "E) Programmed Automatic Network"
+    },
+    "gabarito": "C",
+    "justificativa": "PAN significa Personal Area Network (Rede de Área Pessoal).",
+    "fonte": "QConcursos / TecConcursos"
+  },
+  {
+    "id": 40,
+    "banca": "CESPE / CEBRASPE",
+    "ano": 2024,
+    "cargo": "ANATEL - Especialista em Regulação",
+    "enunciado": "Se o critério de classificação adotado for a abrangência geográfica, uma rede corporativa que conecta a matriz no Brasil com escritórios em Portugal e no Japão classifica-se como uma WAN.",
+    "alternativas": {
+      "A": "A) Certo",
+      "B": "B) Errado"
+    },
+    "gabarito": "A",
+    "justificativa": "A interligação entre países e continentes (Brasil, Portugal, Japão) é a definição exata de WAN (Wide Area Network).",
+    "fonte": "QConcursos / TecConcursos"
+  },
+  {
+    "id": 41,
+    "banca": "CESPE / CEBRASPE",
+    "ano": 2024,
+    "cargo": "BNDES - Analista de TI",
+    "enunciado": "Uma rede local sem fio (WLAN) que atende a todos os andares do edifício-sede de um órgão público é classificada como WAN devido ao elevado alcance do sinal das antenas de rádio.",
+    "alternativas": {
+      "A": "A) Certo",
+      "B": "B) Errado"
+    },
+    "gabarito": "B",
+    "justificativa": "O sinal sem fio cobrindo andares de um mesmo edifício mantém a rede na categoria local (LAN/WLAN). O meio de transmissão por rádio não altera a limitação espacial delimitada ao prédio.",
+    "fonte": "QConcursos / TecConcursos"
+  },
+  {
+    "id": 42,
+    "banca": "VUNESP",
+    "ano": 2023,
+    "cargo": "PM-SP - Oficial da Polícia Militar",
+    "enunciado": "Para conectar os caixas eletrônicos de um banco espalhados por todo o território nacional à sua central de processamento de dados, utiliza-se uma infraestrutura de rede classificada geograficamente como:",
+    "alternativas": {
+      "A": "A) LAN",
+      "B": "B) PAN",
+      "C": "C) MAN",
+      "D": "D) WAN",
+      "E": "E) CAN"
+    },
+    "gabarito": "D",
+    "justificativa": "A interligação de pontos de atendimento espalhados por todo o território nacional exige uma rede de longa distância (WAN - Wide Area Network).",
+    "fonte": "QConcursos / TecConcursos"
+  },
+  {
+    "id": 43,
+    "banca": "FGV",
+    "ano": 2023,
+    "cargo": "PM-RJ - Soldado da Polícia Militar",
+    "enunciado": "As redes de computadores podem ser classificadas quanto à sua extensão geográfica. Assinale a opção que apresenta a sequência correta das siglas ordenadas do MENOR para o MAIOR alcance físico:",
+    "alternativas": {
+      "A": "A) PAN, LAN, MAN, WAN",
+      "B": "B) LAN, PAN, WAN, MAN",
+      "C": "C) WAN, MAN, LAN, PAN",
+      "D": "D) MAN, LAN, PAN, WAN",
+      "E": "E) PAN, MAN, LAN, WAN"
+    },
+    "gabarito": "A",
+    "justificativa": "Ordem crescente de alcance: PAN (pessoal - metros) < LAN (local - cômodo/prédio) < MAN (metropolitana - cidade) < WAN (ampla - país/continente).",
+    "fonte": "QConcursos / TecConcursos"
+  },
+  {
+    "id": 44,
+    "banca": "FCC",
+    "ano": 2023,
+    "cargo": "TRT-18 - Técnico Judiciário",
+    "enunciado": "Em relação às redes de área metropolitana (MAN), é correto afirmar que elas:",
+    "alternativas": {
+      "A": "A) Conectam aparelhos de uso pessoal a distâncias de até 2 metros via Bluetooth.",
+      "B": "B) Abrangem uma região geográfica equivalente a um município ou área metropolitana.",
+      "C": "C) Exigem exclusivamente cabos de par trançado de categoria 5e para funcionarem.",
+      "D": "D) São formadas necessariamente por roteadores localizados em países distintos.",
+      "E": "E) Têm como único objetivo conectar placas de vídeo a monitores externos."
+    },
+    "gabarito": "B",
+    "justificativa": "A MAN (Metropolitan Area Network) é projetada para cobrir a dimensão de uma cidade ou região metropolitana.",
+    "fonte": "QConcursos / TecConcursos"
+  },
+  {
+    "id": 45,
+    "banca": "QUADRIX",
+    "ano": 2024,
+    "cargo": "CRN - Técnico de Informática",
+    "enunciado": "Julgue o item: Uma rede de computadores configurada no interior de uma residência para conectar dois notebooks, uma impressora e uma televisão inteligente é considerada uma rede LAN.",
+    "alternativas": {
+      "A": "A) Certo",
+      "B": "B) Errado"
+    },
+    "gabarito": "A",
+    "justificativa": "O ambiente residencial enquadra-se perfeitamente na definição de rede local (LAN - Local Area Network).",
+    "fonte": "QConcursos / TecConcursos"
+  },
+  {
+    "id": 46,
+    "banca": "CESGRANRIO",
+    "ano": 2024,
+    "cargo": "Banco do Brasil - Escriturário TI",
+    "enunciado": "O conceito de PAN (Personal Area Network) aplica-se adequadamente à seguinte situação prática de comunicação entre dispositivos:",
+    "alternativas": {
+      "A": "A) Sincronização entre um smartwatch e um smartphone carregado no bolso do usuário.",
+      "B": "B) Interligação das agências bancárias de um estado da federação.",
+      "C": "C) Conexão da rede principal de uma prefeitura com suas secretarias municipais.",
+      "D": "D) Transmissão de dados entre servidores localizados em dois continentes diferentes.",
+      "E": "E) Cabeamento estruturado entre os laboratórios de uma universidade."
+    },
+    "gabarito": "A",
+    "justificativa": "Dispositivos de uso pessoal e de alcance reduzido em torno do indivíduo (como relógio inteligente e celular) exemplificam uma PAN.",
+    "fonte": "QConcursos / TecConcursos"
+  },
+  {
+    "id": 47,
+    "banca": "IBFC",
+    "ano": 2024,
+    "cargo": "MGS - Analista de Suporte",
+    "enunciado": "Uma empresa possui matriz em Curitiba e filiais em Londrina, Maringá e Cascavel. A infraestrutura de rede que conecta todas essas unidades no estado do Paraná é classificada como:",
+    "alternativas": {
+      "A": "A) PAN",
+      "B": "B) LAN",
+      "C": "C) MAN",
+      "D": "D) WAN",
+      "E": "E) SAN"
+    },
+    "gabarito": "D",
+    "justificativa": "A conexão entre municípios distantes dentro do estado (ultrapassando os limites de uma única região metropolitana) caracteriza uma WAN (Wide Area Network).",
+    "fonte": "QConcursos / TecConcursos"
+  },
+  {
+    "id": 48,
+    "banca": "INSTITUTO AOCP",
+    "ano": 2023,
+    "cargo": "SEFAZ-ES - Auditor Fiscal",
+    "enunciado": "Quanto ao conceito e classificação de redes de computadores, assinale a alternativa INCORRETA:",
+    "alternativas": {
+      "A": "A) Uma rede de computadores permite a comunicação e o compartilhamento de dados e recursos.",
+      "B": "B) A classification por alcance geográfico define se uma rede é LAN, MAN ou WAN.",
+      "C": "C) Uma rede local (LAN) torna-se uma rede WAN se a velocidade de transmission ultrapassar 1 Gbps.",
+      "D": "D) A tecnologia Bluetooth é um exemplo comum de rede pessoal (PAN).",
+      "E": "E) A Internet é considerada uma rede de abrangência global."
+    },
+    "gabarito": "C",
+    "justificativa": "A alternativa C é a incorreta (gabarito da questão), pois a taxa de velocidade em Gbps nunca altera a classificação geográfica de uma rede.",
+    "fonte": "QConcursos / TecConcursos"
+  },
+  {
+    "id": 49,
+    "banca": "CESPE / CEBRASPE",
+    "ano": 2024,
+    "cargo": "CNJ - Analista Judiciário",
+    "enunciado": "Em uma arquitetura de redes, a extensão geográfica da infraestrutura é o único critério que define se a rede é classificada como LAN, MAN ou WAN, não sendo esse enquadramento determinado pela topologia física nem pelos protocolos de enlace adotados.",
+    "alternativas": {
+      "A": "A) Certo",
+      "B": "B) Errado"
+    },
+    "gabarito": "A",
+    "justificativa": "Conforme a teoria básica de redes, a classificação em LAN, MAN e WAN depende estritamente do alcance/abrangência geográfica.",
+    "fonte": "QConcursos / TecConcursos"
+  },
+  {
+    "id": 50,
+    "banca": "FUNDATEC",
+    "ano": 2024,
+    "cargo": "DERSA - Técnico em Informática",
+    "enunciado": "Uma universidade que interliga cinco prédios de um mesmo campus universitário por meio de fibra óptica própria estabelece uma rede classificada no escopo local como:",
+    "alternativas": {
+      "A": "A) WAN",
+      "B": "B) CAN (Campus Area Network) / LAN",
+      "C": "C) MAN",
+      "D": "D) PAN",
+      "E": "E) GAN"
+    },
+    "gabarito": "B",
+    "justificativa": "A interligação de edifícios contíguos em um mesmo campus ou complexo enquadra-se na classificação de rede local (LAN) ou na sua terminologia específica CAN (Campus Area Network).",
+    "fonte": "QConcursos / TecConcursos"
+  }
+]

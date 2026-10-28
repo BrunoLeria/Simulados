@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "banca": "CESPE",
+    "ano": 2023,
+    "cargo": "Analista Administrativo",
+    "enunciado": "Qual princípio exige que a administração pública atue conforme a lei?",
+    "alternativas": {
+      "A": "Publicidade",
+      "B": "Legalidade",
+      "C": "Eficiência",
+      "D": "Moralidade",
+      "E": "Impessoalidade"
+    },
+    "gabarito": "B",
+    "justificativa": "O princípio da legalidade determina que a administração pública só pode agir conforme autorização legal."
+  },
+  {
+    "id": "2",
+    "banca": "FCC",
+    "ano": 2022,
+    "cargo": "Técnico Judiciário",
+    "enunciado": "Qual estrutura de dados segue o princípio LIFO?",
+    "alternativas": {
+      "A": "Fila",
+      "B": "Árvore",
+      "C": "Pilha",
+      "D": "Grafo",
+      "E": "Lista circular"
+    },
+    "gabarito": "C",
+    "justificativa": "Na pilha, o último elemento inserido é o primeiro a ser removido (Last In, First Out)."
+  },
+  {
+    "id": 3,
+    "banca": "CESGRANRIO",
+    "ano": 2024,
+    "cargo": "Assistente",
+    "enunciado": "Qual formato é usado para troca estruturada de dados?",
+    "alternativas": {
+      "A": "JSON",
+      "B": "MP3",
+      "C": "PNG",
+      "D": "CSS",
+      "E": "WAV"
+    },
+    "gabarito": "A",
+    "justificativa": "JSON é um formato textual leve e estruturado para intercâmbio de dados."
+  }
+]
